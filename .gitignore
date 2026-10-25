@@ -14,3 +14,4 @@ my_tasks.db
 
 #ignore uploaded files 
 /doc_files/
+/apps/doc_files/
