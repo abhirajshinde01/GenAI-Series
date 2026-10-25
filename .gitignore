@@ -11,3 +11,7 @@ my_tasks.db
 /env/
 /dist/
 /build/
+
+#ignore uploaded files 
+/doc_files/
+/apps/doc_files/
